@@ -37,4 +37,4 @@ jobs:
         uses: nuxt-hub/action@v1
         id: deploy
         with:
-          project-key: exif-gallery-nu-5nw6
+          project-key: exif-gallery-nu-k2x0
